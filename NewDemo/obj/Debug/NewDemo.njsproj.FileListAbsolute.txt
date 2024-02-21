@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\Demo\Sample Node\NewDemo\NewDemo\NewDemo\obj\Debug\NewDemo.njsproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Demo\Sample Node\NewDemo\NewDemo\NewDemo\obj\Debug\NewDemo.njsproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Demo\Sample Node\NewDemo\NewDemo\NewDemo\bin\Microsoft.NodejsTools.WebRole.dll
